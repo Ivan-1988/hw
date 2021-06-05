@@ -1,0 +1,11 @@
+.default {
+    margin: 10px;
+    background: #00ffc4;
+    color: #282c34;
+    outline: none;
+}
+
+.red {
+    background: red;
+}
+

@@ -1,0 +1,19 @@
+.someClass {
+    display: flex;
+    width: 280px;
+    justify-content: space-between;
+    align-items: flex-start;
+
+}
+
+.error {
+    border: 1px solid red;
+}
+
+input{
+    outline: none;
+}
+
+.message {
+    color: red;
+}
